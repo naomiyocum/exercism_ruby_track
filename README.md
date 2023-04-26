@@ -1,1 +1,1 @@
-# exercism_ruby_track
+# Exercism - Ruby Track
