@@ -13,6 +13,7 @@ class Matrix
 
   def columns
     rows.transpose
+    # transform rows into columns, given a perfect grid
   end
 end
 
